@@ -10,12 +10,12 @@
 
 |名称|	流量|	协议|	带宽|	月价格|	备注|	地址|
 |----|----|----|----|----|----|----|
-|XSUS|	168G/月|	SSR|	1Gbps| 	￥8|	有88G套餐|[官网](https://clever99.com/j/xsus)|
-|闪电机场|	888G一次性|	SSR|	100Mbps|	￥9.25|	需要年付|	[官网](https://clever99.com/j/shandian)|
-|忍者云|	50G/月|	SSR	|200Mbps|	￥10.8	|年付套餐9折	|[官网](https://clever99.com/j/renzhecloud)|
-|Shadowsocks|	100G/月	|SSR	|200Mbps|	￥11.8|	|	[官网](https://clever99.com/j/shadowsocks)|
-|飞鸟机场|	100G/月|	SS|	不限制速度	|￥12	||	[官网](https://clever99.com/j/flyingbird)|
-|金坷垃|	3200G一次性	|SSR|	128 Mbps	|￥13.1	|有8折优惠|	[官网](https://clever99.com/j/jinkela)|
+|XSUS|	168G/月|	SSR|	1Gbps| 	￥8|	有88G套餐|[官网](https://xsus.wiki/#/register?code=nZgLhDzF)|
+|闪电机场|	888G一次性|	SSR|	100Mbps|	￥9.25|	需要年付|	[官网](https://1229.cdnshandian.top:9980/#/register?code=TgxnKx2D)|
+|忍者云|	50G/月|	SSR	|200Mbps|	￥10.8	|年付套餐9折	|[官网](https://renzhe.cloud/auth/register?code=Fez3)|
+|Shadowsocks|	100G/月	|SSR	|200Mbps|	￥11.8|	|	[官网](https://portal.shadowsocks.au/aff.php?aff=79452)|
+|飞鸟机场|	100G/月|	SS|	不限制速度	|￥12	||	[官网]([flyingbird](https://fbinv02.fbaff.cc/auth/register?code=Hugpy76r))|
+|金坷垃|	3200G一次性	|SSR|	128 Mbps	|￥13.1	|有8折优惠|	[官网](https://金坷垃.com/auth/register?code=eEwb)|
 
 
 ## XSUS机场
