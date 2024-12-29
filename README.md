@@ -20,15 +20,15 @@
 
 ## XSUS机场
 
-[官网地址](https://clever99.com/j/xsus)
+[官网地址](https://xsus.wiki/#/register?code=nZgLhDzF)
 
 说到XSUS机场最深刻的感受就是价格便宜，所以一直标榜自己是十八线小机场。月付套餐最便宜8元/月，每月 168G 流量，热门节点均保证Netflix及Disney，多种流媒体共享账号，基本日常使用完全够用。这种就每月一续，完全不怕跑路的危险。
 
-[XSUS机场怎么样？](https://clever99.com/xsus)
+[XSUS机场怎么样？](https://xsus.wiki/#/register?code=nZgLhDzF)
 
 ## 闪电机场
 
-[官网地址](https://clever99.com/j/shandian)
+[官网地址](https://1229.cdnshandian.top:9980/#/register?code=TgxnKx2D)
 
 闪电机场基于自有专线资源托管服务，总冗余10Gbps，最大可突发100Mbps业务带宽，具有强大SLA保证。
 
@@ -36,15 +36,15 @@
 
 ## 忍者云机场
 
-[官网地址](https://clever99.com/j/renzhecloud)
+[官网地址](https://renzhe.cloud/auth/register?code=Fez3)
 
 忍者云机场服务包括提供来自香港、台湾、新加坡、日本和美国地区的IEPL国际以太网专线传输。利用我们网站的节点，你可以借助原生解锁和DNS流媒体解锁技术，轻松浏览全球多个国家的原生流媒体。
 
-[忍者云机场怎么样？](https://clever99.com/renzhecloud)
+[忍者云机场怎么样？](https://github.com/mfbpn/renzhecloud/blob/main/README.md)
 
 ## Shadowsocks机场
 
-[官网地址](https://clever99.com/j/shadowsocks)
+[官网地址](https://portal.shadowsocks.au/aff.php?aff=79452)
 
 Shadowsocks机场，因为和shadowsocks同名，所以经常被误会为软件官网，2018开始运营的老牌机场。
 
@@ -52,7 +52,7 @@ Shadowsocks机场只有两个包年的产品，拥有香港、日本、美国、
 
 ## 飞鸟机场
 
-[官网地址](https://clever99.com/j/flyingbird)
+[官网地址](https://fbinv02.fbaff.cc/auth/register?code=Hugpy76r)
 
 飞鸟机场（FlyingBird）是一个全员海外落地的SS机场，也被称为飞鸟加速器。它提供高速稳定的服务，不限速，不限设备数量，并拥有超稳定的晚高峰表现。该机场使用IPLC国际专线，为用户提供优质的网络连接。
 
@@ -60,9 +60,9 @@ Shadowsocks机场只有两个包年的产品，拥有香港、日本、美国、
 
 ## 金坷垃机场
 
-[官网地址](https://clever99.com/j/jinkela)
+[官网地址](https://金坷垃.com/auth/register?code=eEwb)
 
 金坷垃机场是一个提供网络加速服务的平台，主要使用V2ray协议，支持多种客户端和流媒体解锁。它有多个套餐可供选择，价格从10.8元/月到540元/年不等，流量从98GB/月到1TB/月不等。它的节点分为直连、中转和IEPL专线，后者是一种高速稳定的网络链路。
 
-[金坷垃机场怎么样？](https://clever99.com/how-is-jinkela)
+[金坷垃机场怎么样？](https://github.com/mfbpn/jinkela/blob/main/README.md)
 
