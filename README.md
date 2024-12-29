@@ -14,7 +14,7 @@
 |闪电机场|	888G一次性|	SSR|	100Mbps|	￥9.25|	需要年付|	[官网](https://1229.cdnshandian.top:9980/#/register?code=TgxnKx2D)|
 |忍者云|	50G/月|	SSR	|200Mbps|	￥10.8	|年付套餐9折	|[官网](https://renzhe.cloud/auth/register?code=Fez3)|
 |Shadowsocks|	100G/月	|SSR	|200Mbps|	￥11.8|	|	[官网](https://portal.shadowsocks.au/aff.php?aff=79452)|
-|飞鸟机场|	100G/月|	SS|	不限制速度	|￥12	||	[官网]([flyingbird](https://fbinv02.fbaff.cc/auth/register?code=Hugpy76r))|
+|飞鸟机场|	100G/月|	SS|	不限制速度	|￥12	||	[官网]((https://fbinv02.fbaff.cc/auth/register?code=Hugpy76r)|
 |金坷垃|	3200G一次性	|SSR|	128 Mbps	|￥13.1	|有8折优惠|	[官网](https://金坷垃.com/auth/register?code=eEwb)|
 
 
